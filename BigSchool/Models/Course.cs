@@ -13,7 +13,7 @@ namespace BigSchool.Models
         public ApplicationUser Lecturer { get; set; }
         [Required]
         public string LecturerId { get; set; }
-        [Required]
+        [Required]      //Hiển thị thông báo nếu không nhập dữ liệu có ràng buộc
         [StringLength(255)]
         public string Place { get; set; }
         public DateTime DateTime { get; set; }

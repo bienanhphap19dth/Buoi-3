@@ -9,7 +9,7 @@ namespace BigSchool.Models
     public class Category
     {
         public byte Id { get; set; }
-        [Required]
+        [Required]      //Hiển thị thông báo nếu không nhập dữ liệu
         [StringLength(255)]
         public string Name { get; set; }
     }
