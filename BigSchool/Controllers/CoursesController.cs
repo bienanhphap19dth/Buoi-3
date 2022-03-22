@@ -28,6 +28,7 @@ namespace BigSchool.Controllers
         }
         [Authorize]
         [HttpPost]  //Lấy dữ liệu từ View (CoureController) đẩy qua Form (Begin) đưa qua biến Create mới dùng [HttpPost] => update lại Sql
+        [ValidateAntiForgeryToken]      //Phòng chống lỗi tấn công (Dữ liệu được gửi lên Server, không phải từ trang Web page trong hệ thống)
         public ActionResult Create (CourseViewModel viewModel)      //Create được tạo biến mới
         {
             if (!ModelState.IsValid)
