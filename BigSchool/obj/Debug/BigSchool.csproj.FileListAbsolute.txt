@@ -132,3 +132,10 @@ C:\Users\biena\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.Gener
 C:\Users\biena\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulationCategoryTable.resources
 C:\Users\biena\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
 C:\Users\biena\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
+C:\Users\biena\source\repos\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\biena\source\repos\BigSchool\BigSchool\bin\System.Web.Http.dll
+C:\Users\biena\source\repos\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\biena\source\repos\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\biena\source\repos\BigSchool\BigSchool\bin\System.Web.Http.xml
+C:\Users\biena\source\repos\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\biena\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
